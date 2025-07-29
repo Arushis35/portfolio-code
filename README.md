@@ -1,4 +1,4 @@
-# Arushi's Portfolio Website
+Arushi's Portfolio Website
 
 This is my personal portfolio website made using "HTML" and "CSS". It shows information about me, my skills, and some of my small projects.
 
